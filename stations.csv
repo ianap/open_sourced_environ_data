@@ -1,0 +1,112 @@
+id,device_id,name,latitude,longitude,type
+S109,S109,Ang Mo Kio Avenue 5,1.3764,103.8492,air_temp
+S50,S50,Clementi Road,1.3337,103.7768,air_temp
+S107,S107,East Coast Parkway,1.3135,103.9625,air_temp
+S43,S43,Kim Chuan Road,1.3399,103.8878,air_temp
+S108,S108,Marina Gardens Drive,1.2799,103.8703,air_temp
+S44,S44,Nanyang Avenue,1.34583,103.68166,air_temp
+S121,S121,Old Choa Chu Kang Road,1.37288,103.72244,air_temp
+S106,S106,Pulau Ubin,1.4168,103.9673,air_temp
+S111,S111,Scotts Road,1.31055,103.8365,air_temp
+S24,S24,Upper Changi Road North,1.3678,103.9826,air_temp
+S116,S116,West Coast Highway,1.281,103.754,air_temp
+S104,S104,Woodlands Avenue 9,1.44387,103.78538,air_temp
+S100,S100,Woodlands Road,1.4172,103.74855,air_temp
+S109,S109,Ang Mo Kio Avenue 5,1.3764,103.8492,hymidity
+S50,S50,Clementi Road,1.3337,103.7768,hymidity
+S107,S107,East Coast Parkway,1.3135,103.9625,hymidity
+S43,S43,Kim Chuan Road,1.3399,103.8878,hymidity
+S108,S108,Marina Gardens Drive,1.2799,103.8703,hymidity
+S44,S44,Nanyang Avenue,1.34583,103.68166,hymidity
+S121,S121,Old Choa Chu Kang Road,1.37288,103.72244,hymidity
+S106,S106,Pulau Ubin,1.4168,103.9673,hymidity
+S111,S111,Scotts Road,1.31055,103.8365,hymidity
+S24,S24,Upper Changi Road North,1.3678,103.9826,hymidity
+S116,S116,West Coast Highway,1.281,103.754,hymidity
+S104,S104,Woodlands Avenue 9,1.44387,103.78538,hymidity
+S100,S100,Woodlands Road,1.4172,103.74855,hymidity
+,,west,1.35735,103.7,air
+,,east,1.35735,103.94,air
+,,central,1.35735,103.82,air
+,,south,1.29587,103.82,air
+,,north,1.41803,103.82,air
+S77,S77,Alexandra Road,1.2937,103.8125,rainfall
+S109,S109,Ang Mo Kio Avenue 5,1.3764,103.8492,rainfall
+S90,S90,Bukit Timah Road,1.3191,103.8191,rainfall
+S114,S114,Choa Chu Kang Avenue 4,1.38,103.73,rainfall
+S11,S11,Choa Chu Kang Road,1.3746,103.6938,rainfall
+S50,S50,Clementi Road,1.3337,103.7768,rainfall
+S107,S107,East Coast Parkway,1.3135,103.9625,rainfall
+S215,S215,GEYLANG EAST CENTRAL,1.32785,103.88899,rainfall
+S118,S118,Handy Road,1.2994,103.8461,rainfall
+S120,S120,Holland Road,1.30874,103.818,rainfall
+S33,S33,Jurong Pier Road,1.3081,103.71,rainfall
+S71,S71,Kent Ridge Road,1.2923,103.7815,rainfall
+S43,S43,Kim Chuan Road,1.3399,103.8878,rainfall
+S66,S66,Kranji Way,1.4387,103.7363,rainfall
+S112,S112,Lim Chu Kang Road,1.43854,103.70131,rainfall
+S40,S40,Mandai Lake Road,1.4044,103.78962,rainfall
+S108,S108,Marina Gardens Drive,1.2799,103.8703,rainfall
+S113,S113,Marine Parade Road,1.30648,103.9104,rainfall
+S44,S44,Nanyang Avenue,1.34583,103.68166,rainfall
+S119,S119,Nicoll Highway,1.30105,103.8666,rainfall
+S121,S121,Old Choa Chu Kang Road,1.37288,103.72244,rainfall
+S35,S35,Old Toh Tuck Road,1.3329,103.7556,rainfall
+S94,S94,Pasir Ris Street 51,1.3662,103.9528,rainfall
+S78,S78,Poole Road,1.30703,103.89067,rainfall
+S106,S106,Pulau Ubin,1.4168,103.9673,rainfall
+S81,S81,Punggol Central,1.4029,103.9092,rainfall
+S201,S201,S201,1.32311,103.76714,rainfall
+S203,S203,S203,1.29164,103.7702,rainfall
+S204,S204,S204,1.40081,103.88217,rainfall
+S205,S205,S205,1.38829,103.9116,rainfall
+S207,S207,S207,1.32485,103.95836,rainfall
+S208,S208,S208,1.3136,104.00317,rainfall
+S209,S209,S209,1.42111,103.84472,rainfall
+S210,S210,S210,1.44003,103.76904,rainfall
+S211,S211,S211,1.42918,103.75711,rainfall
+S212,S212,S212,1.31835,103.93574,rainfall
+S213,S213,S213,1.32427,103.8097,rainfall
+S214,S214,S214,1.29911,103.88289,rainfall
+S216,S216,S216,1.36019,103.85335,rainfall
+S217,S217,S217,1.35041,103.85526,rainfall
+S218,S218,S218,1.36491,103.75065,rainfall
+S219,S219,S219,1.37999,103.87643,rainfall
+S220,S220,S220,1.38666,103.89797,rainfall
+S221,S221,S221,1.35691,103.89088,rainfall
+S222,S222,S222,1.28987,103.82364,rainfall
+S223,S223,S223,1.29984,103.80264,rainfall
+S224,S224,S224,1.34392,103.98409,rainfall
+S226,S226,S226,1.27472,103.80389,rainfall
+S227,S227,S227,1.43944,103.80389,rainfall
+S228,S228,S228,1.34703,103.70073,rainfall
+S229,S229,S229,1.35167,103.72195,rainfall
+S230,S230,S230,1.30167,103.76444,rainfall
+S111,S111,Scotts Road,1.31055,103.8365,rainfall
+S900,S900,Seletar Aerospace View,1.41284,103.86922,rainfall
+S84,S84,Simei Avenue,1.3437,103.9444,rainfall
+S79,S79,Somerset Road,1.3004,103.8372,rainfall
+S88,S88,Toa Payoh North,1.3427,103.8482,rainfall
+S123,S123,Towner Road,1.3214,103.8577,rainfall
+S89,S89,Tuas Road,1.31985,103.66162,rainfall
+S82,S82,Tuas West Road,1.3247,103.6351,rainfall
+S24,S24,Upper Changi Road North,1.3678,103.9826,rainfall
+S69,S69,Upper Peirce Reservoir Park,1.37,103.805,rainfall
+S08,S08,Upper Thomson Road,1.3701,103.8271,rainfall
+S116,S116,West Coast Highway,1.281,103.754,rainfall
+S104,S104,Woodlands Avenue 9,1.44387,103.78538,rainfall
+S100,S100,Woodlands Road,1.4172,103.74855,rainfall
+S109,S109,Ang Mo Kio Avenue 5,1.3764,103.8492,wind
+S117,S117,Banyan Road,1.256,103.679,wind
+S50,S50,Clementi Road,1.3337,103.7768,wind
+S107,S107,East Coast Parkway,1.3135,103.9625,wind
+S43,S43,Kim Chuan Road,1.3399,103.8878,wind
+S108,S108,Marina Gardens Drive,1.2799,103.8703,wind
+S44,S44,Nanyang Avenue,1.34583,103.68166,wind
+S106,S106,Pulau Ubin,1.4168,103.9673,wind
+S60,S60,Sentosa,1.25,103.8279,wind
+S115,S115,Tuas South Avenue 3,1.29377,103.61843,wind
+S24,S24,Upper Changi Road North,1.3678,103.9826,wind
+S116,S116,West Coast Highway,1.281,103.754,wind
+S104,S104,Woodlands Avenue 9,1.44387,103.78538,wind
+S100,S100,Woodlands Road,1.4172,103.74855,wind
